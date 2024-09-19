@@ -1,7 +1,7 @@
 document.addEventListener('alpine:init', () => {
     Alpine.data('products', () => ({
         items: [
-            { id: 1, name: 'Bucket Mawar Unggu', img: '1.PNG', price: 250000 },
+            { id: 1, name: 'Bucket Mawar Unggu', img: '1.png', price: 250000 },
             { id: 2, name: 'Bucket Sedang', img: '2.PNG', price: 80000 },
             { id: 3, name: 'Bucket Mawar Merah', img: '3.PNG', price: 250000 },
             { id: 4, name: 'Bucket Wisuda', img: '4.PNG', price: 50000 },
