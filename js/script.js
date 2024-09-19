@@ -42,5 +42,3 @@ document.addEventListener('click', function (e) {
     shoppingCart.classList.remove('active');
   }
 });
-
-
